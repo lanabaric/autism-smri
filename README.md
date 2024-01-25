@@ -26,7 +26,7 @@ python3.9 -m venv VENV_NAME
 
 After that activate the created with 
 ```
-source /VENV_NAME/bin/activate
+source VENV_NAME/bin/activate
 ```
 Upon activating virtual enviroment install modules with:
 
